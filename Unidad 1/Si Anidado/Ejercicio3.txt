@@ -12,6 +12,7 @@ Escribir “Trajistes el permiso?”
 Leer permiso
 Si permiso == 1 entonces
 Escribir “ya pagaste la cuota?"
+Leer cuota
 Si cuota == 1 Entonces
 Escribir "¡Todo listo! Sube al bus."
 Sino
